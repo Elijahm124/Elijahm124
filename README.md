@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Software/Backend Development
 - 🌱 I’m currently learning SQL, Javascript, ML concepts
 - 💞️ I’m looking to collaborate on machine learning or AI projects, or web applications
-- 📫 How to reach me https://www.linkedin.com/in/elijah-murillo/or elijahmurillo124@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/elijah-murillo/ elijahmurillo124@gmail.com
 
 <!---
 Elijahm124/Elijahm124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
